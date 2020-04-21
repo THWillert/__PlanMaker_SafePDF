@@ -4,6 +4,8 @@ Eine [AutoIt](https://www.autoitscript.com/site/autoit/)-Funktion für die Tabel
 
 Die API von PlanMaker beinhaltet diese Funktion leider nicht, deshalb arbeitet diese Funktion mit Erkennung von Dialogen und einer Tastatur-Simulation.
 
+:warning: Alle Parameter für den PDF-Export müssen vor dem Export per Hand eigestellt werden.
+
 ## Übersicht
 
 Parameter:
