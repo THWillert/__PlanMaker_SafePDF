@@ -44,7 +44,7 @@ In das Include Verzeichnis von AutoIt kopieren und als UDF einbinden, oder die F
 
 
 ## ToDo
-- [] Funktionalität auch für Ribbons
+- [ ] Funktionalität auch für Ribbons
 
 
 ## Author
